@@ -23,3 +23,8 @@ that I made using Rstudio on github.
 
 Drew Kinneer- Lab went very smoothly. Git had a few issues with RStudio
 but after fixing my authentication it worked great.
+
+Logan Becker - Lab was a little slow as I didn’t have my author setup so
+had to figure that out first then it worked for me.
+
+Luis Hinkhouse - Lab went ok. I had to fix my authentication.
