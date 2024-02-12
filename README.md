@@ -16,3 +16,10 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
+Ethan Mangelsdorf - The lab experience went well, I learned on how use
+github in conjunction with rstudio and how to show my changes and edits
+that I made using Rstudio on github.
+
+Drew Kinneer- Lab went very smoothly. Git had a few issues with RStudio
+but after fixing my authentication it worked great.
